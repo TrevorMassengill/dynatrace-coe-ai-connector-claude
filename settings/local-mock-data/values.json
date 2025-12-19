@@ -1,0 +1,11 @@
+[
+  {
+    "schemaId": "claude-connection",
+    "value": {
+      "name": "Claude Connection",
+      "token": "abc123",
+      "url": "http://foo.bar"
+    },
+    "summary": "My Connection"
+  }
+]
