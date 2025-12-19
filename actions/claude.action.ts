@@ -38,7 +38,6 @@ export default async (payload: any) => {
         "max_tokens": Number(payload.tokens)
       }),
     });
-    userLogger.info(JSON.stringify(response));
 
     if (!response.ok) {
       const errorBody = await response.text();

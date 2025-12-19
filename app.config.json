@@ -3,7 +3,7 @@
   "environmentUrl": "https://egu21862.apps.dynatrace.com/",
   "app": {
     "name": "Calude Connector",
-    "version": "0.1.2034",
+    "version": "0.1.2035",
     "description": "Workflow Connector, sends data and a prompt to Claude to analyze and respond to.",
     "id": "my.coe.ai.connectors.claude",
     "scopes": [
