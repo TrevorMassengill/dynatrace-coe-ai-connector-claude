@@ -74,7 +74,7 @@ You can archive Claude's analysis back into Dynatrace as a log for long-term tra
     import { logsClient } from '@dynatrace-sdk/client-classic-environment-v2';
     
     export default async function () {
-      const taskExecutionResult = await result('claude');
+      const taskExecutionResult = await result('claude_1');
     
       console.log('print: ', taskExecutionResult.response);
       
